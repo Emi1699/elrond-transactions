@@ -1,15 +1,15 @@
 {
     "tx": {
-        "nonce": 5,
-        "value": "5000000000000000",
+        "nonce": 8,
+        "value": "7423000000000000",
         "receiver": "erd1jsyvz2qa7a3sntyz4m2sjz6uwcjc2duqcxvg0s9wmtzkuwpg3utqc4a07x",
         "sender": "erd1eff5kt2zccg3z2numg9e7a5fnzphrq8rpr4l98j92u78djxvtdgs79set8",
         "gasPrice": 1000000000,
         "gasLimit": 50000,
         "chainID": "1",
         "version": 1,
-        "signature": "83b9cb61085d4cb9000c62447b51db9bc632335f7f4bc59b4fcb31efc65e63a81313b413ff9be97e1464b1072536b098d57882c909a64898f6893f438762d807"
+        "signature": "7ea3f1780c94cc942819c44bceb134c311a83dbf2ee57d7a3edd5aaaeeaf1dc4d8eb15fb489040421596dc3344c8552ec058c9e90755df736ddc831ae4442309"
     },
-    "hash": "79cddf164ceafccc71a496f8a05edeaf084b7c802f1c7ae97c4a9da1090a4d80",
+    "hash": "c5e9b13b1a669e721221bb1c9e147bdd374a80bab1c805bd8a8a72bbace7c645",
     "data": ""
 }
